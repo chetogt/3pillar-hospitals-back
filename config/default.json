@@ -1,0 +1,8 @@
+{
+    "port": 5000,
+    "environment": "Default",
+    "jwt_secret": "MYSECRET",
+    "data_base": {
+        "mongo_uri": "mongodb+srv://<user>:<password>@<mongodb>/hospitals?retryWrites=true&w=majority"
+    }
+}
